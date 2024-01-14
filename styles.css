@@ -1,7 +1,7 @@
 
 
 .container{
-    background-color: white;
+    /* background-color: white; */
     /* height: 100vh; */
     
 }
@@ -17,10 +17,12 @@
     margin-left: 0; */
 }
 .temp{
-    background-image: url(https://www.newsday.com/_next/image?url=https%3A%2F%2Fcdn.newsday.com%2Fimage-service%2Fversion%2Fc%3AYzdlOWEyZTItOTY4OC00%3AMGM0ZjA4%2Fetcool180328_23c_web.jpg%3Ff%3DLandscape%2B16%253A9%26w%3D770%26q%3D1&w=1920&q=80);
+    /* background-image: url(https://www.newsday.com/_next/image?url=https%3A%2F%2Fcdn.newsday.com%2Fimage-service%2Fversion%2Fc%3AYzdlOWEyZTItOTY4OC00%3AMGM0ZjA4%2Fetcool180328_23c_web.jpg%3Ff%3DLandscape%2B16%253A9%26w%3D770%26q%3D1&w=1920&q=80);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: center center; */
+    background-image: url(./images/rapper\ delight.jpg);
+    
 }
 .back{
     /* background-color: black; */
