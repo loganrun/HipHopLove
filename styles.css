@@ -7,7 +7,7 @@
     background-repeat: no-repeat;
     
 }
-.temp{
+.sugarHill{
 
     background-image: url(./images/rapper\ delight.jpg);
     
@@ -28,6 +28,13 @@
 a:hover {
     background-color: ghostwhite;
   }
+.rotate{
+    -webkit-transition: -webkit-transform 1s;
+
+}
+.rotate:hover{
+    -webkit-transform: rotateY(360deg) translateZ(0);
+}
 
 /* nav{
     margin-top: 200px;
