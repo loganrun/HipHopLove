@@ -25,6 +25,10 @@
 .my-bg-color {
     background-color: black;
 }
+a:hover {
+    background-color: ghostwhite;
+  }
+
 /* nav{
     margin-top: 200px;
 } */
