@@ -29,9 +29,19 @@ a:hover {
     background-color: ghostwhite;
   }
 .rotate{
-    -webkit-transition: -webkit-transform 1s;
+    /* -webkit-transition: -webkit-transform 1s; */
+    animation: animName 2s linear ;
 
 }
 .rotate:hover{
     -webkit-transform: rotateY(360deg) translateZ(0);
 }
+
+@keyframes animName {
+    0%{
+       transform: rotate(0deg);
+      }
+   100%{
+       transform: rotate(360deg);
+      }
+   }
