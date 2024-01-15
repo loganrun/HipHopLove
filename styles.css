@@ -35,7 +35,3 @@ a:hover {
 .rotate:hover{
     -webkit-transform: rotateY(360deg) translateZ(0);
 }
-
-/* nav{
-    margin-top: 200px;
-} */
